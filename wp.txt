@@ -1,1 +1,21 @@
 111
+说明：
+
+1、git clone https://github.com/Depth1001/branch_xzc_wp.git	--	这是在master分支 （即主分支）
+
+2、git branch -a 查看所有分支
+	w -- 是我的分支 （ 区别，我比你里面多了这个文件 ）
+	x -- 是你的分支
+
+  
+3、git checkout w 切换我的分支
+   git checkout x 切换你的分支
+
+	（ 先来回切换分支，看看文件夹，有什么不一样。注意下 ）
+
+4、然后 在你分支上操作你熟悉的命令
+
+	add
+	commit 
+	merge ( 注意冲突 )
+
